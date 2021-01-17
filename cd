@@ -1,0 +1,2 @@
+worker: python python.py
+cd %D:\Python% $ heroku create %Python.py% --buildpack http://github.com/heroku/heroku-buildpack-python.git
